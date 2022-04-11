@@ -3,17 +3,18 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#C9E180;
+    background-color:white;
     font-family: 'Arial';  
 }  
 .first{
     background-color:#80a805;
-    margin-top: 1%;
+    margin-top: 0%;
     width:1110px;
     display: flex;
     margin-left: 10%;
-    margin-bottom: 1%;
+    margin-bottom: 0%;
     margin-right: 10%;
+    position: absolute;
 }
 img{ 
     margin-left: 50%;
@@ -58,7 +59,7 @@ label{
     border-radius: 3px;  
     padding-left: 8px;
     margin-bottom: 5%;  
-    border: 2px solid black;
+    border-bottom: 2px solid black;
 
 }
 
@@ -68,7 +69,7 @@ label{
     border: none;  
     border-radius: 3px;  
     padding-left: 8px;  
-    border: 2ptx solid black;
+    border-bottom: 2px solid black;
       
 }  
 #Logging{  
