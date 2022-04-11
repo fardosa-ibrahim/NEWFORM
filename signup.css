@@ -1,0 +1,114 @@
+body{
+    background-color:#C9E180;
+    margin: 0;
+    padding: 0;
+    font-family:'Arial';
+}
+.first{
+    background-color:#84ac0f;
+    margin-top: 1%;
+    width:1110px;
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    margin-right: 10%;
+    
+}
+img{ 
+    margin-left: 50%;
+    margin-top: 1.5%;
+    margin-bottom: 0%;
+    
+}
+form{
+    margin-bottom: 8%;
+    font-size: 18px;
+    margin-left: 2%;
+}
+form label{
+    display: flex;
+    margin-top: 25px;
+    font-size: 18px;
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+
+}
+.signup{  
+    width: 350px;  
+    overflow: hidden;   
+    margin: 0.5% 3% 4%  15%;  
+    padding: 40px;  
+    background: white;  
+    border-radius: 1px ;  
+    
+    
+    
+
+      
+}  
+h2{  
+text-align: center;  
+color: black;  
+padding: 20px;  
+}  
+label{  
+color: #08ffd1;  
+font-size: 17px;  
+}  
+#yourname{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px; 
+margin-bottom: 5%; 
+border-bottom: 2px solid black;
+
+}
+#mailing{width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+margin-bottom: 5%;
+border-bottom: 2px solid black;
+
+
+}  
+#Passwd{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+margin-bottom: 5%;
+border-bottom: 2px solid black;
+
+  
+}  
+#sign{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 17px;  
+padding-left: 7px;  
+color: rgb(31, 194, 17);  
+
+
+}  
+span{  
+color: green;  
+font-size: 17px;  
+}  
+a{    
+padding-top: 70px;
+color:purple;
+}
+#sign{
+  margin-top: 20px;
+}
